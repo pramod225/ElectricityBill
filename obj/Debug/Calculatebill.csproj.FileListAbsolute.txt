@@ -1,0 +1,6 @@
+C:\Users\BaniYashu\source\repos\Calculatebill\bin\Debug\Calculatebill.exe.config
+C:\Users\BaniYashu\source\repos\Calculatebill\bin\Debug\Calculatebill.exe
+C:\Users\BaniYashu\source\repos\Calculatebill\bin\Debug\Calculatebill.pdb
+C:\Users\BaniYashu\source\repos\Calculatebill\obj\Debug\Calculatebill.csproj.CoreCompileInputs.cache
+C:\Users\BaniYashu\source\repos\Calculatebill\obj\Debug\Calculatebill.exe
+C:\Users\BaniYashu\source\repos\Calculatebill\obj\Debug\Calculatebill.pdb
